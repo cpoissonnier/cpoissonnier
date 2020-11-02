@@ -12,6 +12,13 @@ I really like mentoring and working with junior developers and I try to create o
 - [How to master IntelliJ IDEA (still a WIP) 🇫🇷](https://github.com/ineat/refcards/blob/feat/intellij/intellij/FR.md)
 - [Formation : Initiation au software craft 🇫🇷](https://www.ineat.academy/initiation-au-software-craftsmanship/)
 
+#### 🚀 Automation
+I can spend hours to automate actions that takes me few useless seconds once in a while ... That's why I love Alfred, and that I created few workflows for the community : 
+- [ngrok](https://github.com/cpoissonnier/alfred-ngrok-workflow)
+- [Calling Code](https://github.com/cpoissonnier/alfred-calling-code-workflow)
+- [Twilio URL to Twilio CLI](https://github.com/cpoissonnier/alfred-twilio-workflow)
+
+
 #### 📫 How to reach me:
 
 - [Twitter](https://twitter.com/cpoissonnier)
